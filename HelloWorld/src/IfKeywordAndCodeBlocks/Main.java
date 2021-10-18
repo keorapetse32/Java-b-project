@@ -22,11 +22,7 @@ public class Main {
             System.out.println("Your final score was " + finalScore);
         }
 
-        // Print out a second score on the screen with the following
-        // score set to 10000
-        // levelCompleted set to 8
-        // bonus set to 200
-        // But make sure the first printout above still displays as well
+
 
 //        boolean newGameOver = true;
 //        int newScore = 10000;

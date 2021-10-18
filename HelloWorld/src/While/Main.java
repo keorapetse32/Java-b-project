@@ -35,10 +35,7 @@ public class Main {
 //            number++;
 //        }
 
-        // Modify the while code above
-        // Make it also record the total number of even numbers it has found
-        // and break once 5 are found
-        // and at the end, display the total number of even numbers found
+
 
         int number = 5;
         int finishNumber = 20;
@@ -63,10 +60,7 @@ public class Main {
 
     }
 
-    // Create a method called isEvenNumber that takes a parameter of type int
-    // Its purpose is to determine if the argument passed to the method is
-    // an even number or not.
-    // return true if an even number, otherwise return false;
+
 
     public static boolean isEvenNumber(int number) {
         if((number % 2)  == 0) {
